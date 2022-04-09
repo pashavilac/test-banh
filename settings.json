@@ -1,8 +1,8 @@
 {
 	"prefix": ".",
 	"NamaBot": "Kamako Bot", 	
-	"namo": "MIYUKA", 
-	"ator": "MIYUKA KAMAKO", 
+	"namo": "KAMAKO", 
+	"ator": "BOT", 
 	"welcomesay": "*BEBAN JOIN*",
 	"leavesay": "*BEBAN LEFT*",
 	"promotesay": "*cie naik pangkat*",
